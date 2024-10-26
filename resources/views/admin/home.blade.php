@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gonzales Stitch & Style</title>
+    <title>𝘼𝙡𝙡-𝙎𝙩𝙖𝙧 𝘾𝙖𝙥𝙨</title>
     <link rel="stylesheet" href="{{ asset('style.css') }}">
 </head>
 <body style="background: url('{{ asset('details/capbg.jpeg') }}') no-repeat center center fixed; background-size: cover;">

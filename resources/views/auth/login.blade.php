@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Login - Gonzales Stitch & Style</title>
+    <title>Login -  𝘼𝙡𝙡-𝙎𝙩𝙖𝙧 𝘾𝙖𝙥𝙨</title>
     <link rel="stylesheet" href="{{ asset('style.css') }}">
 
     <style>
